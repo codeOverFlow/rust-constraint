@@ -1,0 +1,10 @@
+[package]
+name = "rust-constraint"
+version = "0.1.0"
+authors = ["codeoverflow <adrien.bodineau@gmail.com>"]
+edition = "2018"
+description = "rust implementation of python-constraint<https://github.com/python-constraint/python-constraint.git>. FOR TRAINING PURPOSE ONLY!"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
